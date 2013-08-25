@@ -10,7 +10,7 @@ If this repo happens to be out of date, or you require bindings for another vers
 
 ```sh
 # after installing git and thrift... (hypertable doesn't need to be compiled to
-# prepare the bindings, nor does this repository need to be)
+# prepare the bindings, nor does this repository need to be checked out)
 
 # clone hypertable's source
 git clone github.com/hypertable/hypertable.git
